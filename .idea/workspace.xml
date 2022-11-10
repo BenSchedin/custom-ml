@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0439f4f-4493-40a8-a0f3-983514b4c3f0" name="Default Changelist" comment="" />
+    <list default="true" id="f0439f4f-4493-40a8-a0f3-983514b4c3f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/logistic-regression/code/logistic_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k-means-clustering/k-means-clustering-development.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/k-means-clustering/k-means-clustering-development.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k-means-clustering/kmeansclustering.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,5 +35,16 @@
       <updated>1661013693316</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
